@@ -12,11 +12,11 @@
 	const theme = [
 	'21=242936', '7=1F2430', '8=CBCCC6', '9=5CCFE6', 'aa=5CCfE6',
 	'ae=1F2430', 'j=1A1F29', 'x=A6CC70',
-];
-
-for (const item of theme) {
-	document.cookie = `${item}; max-age=126144000; samesite=lax; secure`;
-}
+	];
+	
+	for (const item of theme) {
+		document.cookie = `${item}; max-age=126144000; samesite=lax; secure`;
+	}
 	```
 
 6. Reload the page.
