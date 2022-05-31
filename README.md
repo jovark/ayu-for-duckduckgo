@@ -6,7 +6,7 @@
 2. Right click and select the “Inspect” button.
 3. Select the “Console” tab.
 4. If you are using Firefox, type `allow pasting`.
-5. Enter the following script:
+5. Paste the following script and press enter:
 
 	```js
 	const theme = [
