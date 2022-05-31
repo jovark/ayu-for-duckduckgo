@@ -1,4 +1,4 @@
-# Ayu Mirage color theme for DuckDuckGo search engine
+# Unofficial Ayu Mirage color theme for DuckDuckGo search engine
 
 ## Applying the theme 
 
